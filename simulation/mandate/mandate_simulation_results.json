@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "date": "2025-12-10T07:40:25.104349",
+    "trials_per_scenario": 10000,
+    "total_scenarios": 8,
+    "architecture": "mandate_based",
+    "description": "PayCentral mandate architecture - proving 0% failure rate"
+  },
+  "scenarios": {
+    "Price Hallucination": {
+      "total_trials": 10000,
+      "failures": 0,
+      "failure_rate": 0.0,
+      "sample_errors": []
+    },
+    "Prompt Injection Attack": {
+      "total_trials": 10000,
+      "successful_attacks": 0,
+      "success_rate": 0.0,
+      "sample_attacks": []
+    },
+    "Context Window Overflow": {
+      "total_trials": 10000,
+      "failures": 0,
+      "failure_rate": 0.0,
+      "sample_errors": []
+    },
+    "Floating Point Errors": {
+      "total_trials": 10000,
+      "errors": 0,
+      "error_rate": 0.0,
+      "sample_errors": []
+    },
+    "Authorization Ambiguity": {
+      "total_trials": 10000,
+      "misinterpretations": 0,
+      "misinterpretation_rate": 0.0,
+      "sample_cases": []
+    },
+    "Race Condition": {
+      "total_trials": 10000,
+      "duplicates_created": 0,
+      "duplicate_rate": 0.0,
+      "sample_duplicates": []
+    },
+    "UPI Mandate Frequency Error": {
+      "total_trials": 10000,
+      "frequency_errors": 0,
+      "error_rate": 0.0,
+      "sample_errors": []
+    },
+    "Currency Confusion": {
+      "total_trials": 10000,
+      "currency_errors": 0,
+      "error_rate": 0.0,
+      "sample_errors": []
+    }
+  },
+  "overall": {
+    "total_trials": 80000,
+    "total_failures": 0,
+    "overall_failure_rate": 0.0,
+    "overall_success_rate": 100.0
+  }
+}

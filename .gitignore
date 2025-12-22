@@ -1,0 +1,36 @@
+  __pycache__/
+  *.py[cod]
+  *$py.class
+  *.so
+  .Python
+  venv/
+  env/
+  ENV/
+  *.egg-info/
+  dist/
+  build/
+
+  # Environment files
+  .env
+  .env.local
+
+  # IDEs
+  .vscode/
+  .idea/
+  *.swp
+  *.swo
+  .DS_Store
+
+  # Logs
+  *.log
+  *.txt
+
+  # Virtual environments
+  validation/venv/
+  simulation/venv/
+  Versions/
+
+  # Temporary files
+  *.tmp
+  .cache/
+  .pytest_cache/
