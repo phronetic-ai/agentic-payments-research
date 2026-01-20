@@ -10,7 +10,7 @@
 
 **Authors:** Supreeth Ravi, Phronetic AI Research Team
 
-**Publication Date:** December 2025
+**Publication Date:** December 2025/2026
 
 **Study Scale:** 160,000 simulated transactions + 1,100+ real API validations across 9 production LLM models
 
@@ -264,7 +264,7 @@ This research was conducted by Phronetic AI, which is developing PayCentral, a c
 
 **Why This Does Not Invalidate Our Findings:**
 
-1. **Open Source:** All code, data, and methodology publicly available at [github.com/supreeth-ravi/agentic-payments-research](https://github.com/supreeth-ravi/agentic-payments-research)
+1. **Open Source:** All code, data, and methodology publicly available at [github.com/phronetic-ai/agentic-payments-research](https://github.com/phronetic-ai/agentic-payments-research)
 
 2. **Architecture-Agnostic:** Our core finding (36.98% failure rate for direct integration) is independent of any specific mandate implementation
 
@@ -278,42 +278,7 @@ This research was conducted by Phronetic AI, which is developing PayCentral, a c
 
 ---
 
-## 📚 Download Full Whitepaper
-
-This executive summary covers the highlights. The full whitepaper includes:
-
-✅ **Comprehensive Methodology** (Section IV)
-- Detailed experimental design
-- Statistical analysis framework
-- Simulation implementation details
-
-✅ **Complete Results** (Sections V-VI)
-- All 8 failure modes analyzed in depth
-- Real API validation results
-- Comparative architecture analysis
-
-✅ **Technical Deep Dive** (Section VIII)
-- Mandate architecture implementation specifications
-- Cryptographic security properties
-- Integration guidelines and best practices
-
-✅ **Regulatory Analysis** (Section VII.3)
-- PCI DSS, PSD2, RBI compliance mapping
-- Legal implications for merchants and platforms
-
-✅ **Attack Taxonomy & Reproduction Guide** (Appendix D)
-- 20+ exact prompt injection attacks
-- Step-by-step reproduction instructions
-- Code examples for testing
-
-✅ **Open Source Code Repository**
-- Run simulations yourself
-- Test with different LLM providers
-- Validate our findings
-
-**📥 [Download Full Whitepaper (PDF)](whitepaper/Determinism_in_Agentic_Payments_Whitepaper.md)**
-
-**📥 [Access GitHub Repository](https://github.com/supreeth-ravi/agentic-payments-research)**
+**📥 [Access GitHub Repository](https://github.com/phronetic-ai/agentic-payments-research)**
 
 ---
 
@@ -359,12 +324,11 @@ LinkedIn: [linkedin.com/in/supreeth-ravi](https://www.linkedin.com/in/supreeth-r
 
 ---
 
-**© 2025 Phronetic AI Research Team. Released under Creative Commons Attribution 4.0 International (CC BY 4.0).**
+**© 2025/2026 Phronetic AI Research Team. Released under Creative Commons Attribution 4.0 International (CC BY 4.0).**
 
 *You are free to share and adapt this material with appropriate attribution.*
 
 ---
 
-**Last Updated:** December 22, 2025
+**Last Updated:** January 2026
 **Version:** 2.0.0
-**DOI:** [To be assigned upon publication]

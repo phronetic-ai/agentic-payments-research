@@ -1153,11 +1153,11 @@ A:
 ## Citation
 
 ```bibtex
-@whitepaper{ravi2024determinism,
+@whitepaper{ravi2025determinism,
   title={Determinism in Agentic Payments: An Empirical Study of LLM
          Non-Determinism in Financial Transactions},
   author={Ravi, Supreeth},
-  year={2024},
+  year={2025},
   institution={Phronetic AI Research Lab},
   note={Includes Monte Carlo Simulation Framework}
 }
@@ -1176,5 +1176,5 @@ A:
 ---
 
 **Version:** 1.0.0
-**Last Updated:** December 12, 2024
+**Last Updated:** January 2026
 **Maintainer:** Supreeth Ravi

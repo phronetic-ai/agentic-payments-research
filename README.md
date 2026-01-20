@@ -43,7 +43,7 @@ The PayCentral mandate architecture solves this by introducing a **deterministic
 ```
 agentic-payments-research/
 ├── whitepaper/                                      # Research whitepaper and appendices
-│   └── Determinism_in_Agentic_Payments_Whitepaper.md
+│   └── Determinism_in_Agentic_Payments_Whitepaper.pdf
 │
 ├── simulation/                                      # Monte Carlo simulation framework
 │   ├── run_simulation.py                           # Main simulation runner for direct integration (various gateways)
@@ -116,7 +116,7 @@ cd ..
 To delve into the core research, methodology, and findings:
 
 ```bash
-open whitepaper/Determinism_in_Agentic_Payments_Whitepaper.md
+open whitepaper/Determinism_in_Agentic_Payments_Whitepaper.pdf
 ```
 
 ### 4. Run Simulations (80,000 transactions, free)
@@ -215,7 +215,7 @@ See [simulation/FRAMEWORK_GUIDE.md](simulation/FRAMEWORK_GUIDE.md) for a complet
 If you reference this work, please cite the whitepaper as:
 
 ```
-PayCentral Research Team. (2025). "Determinism in Agentic Payments:
+PayCentral Research Team. (2025/2026). "Determinism in Agentic Payments:
 Why Direct LLM-Payment Integration Fails and How Mandate Architecture
 Achieves 0% Failure Rate - An Empirical Study of 160,000 Transactions."
 PayCentral Technical Whitepaper. https://paycentral.com/research/determinism-whitepaper

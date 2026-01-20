@@ -50,7 +50,7 @@ The methodology (Monte Carlo simulation + real API validation) is universal, eve
 - **Code:** Test security vulnerability injection rates
 - **Finance:** Test calculation error rates
 
-**See [REUSABILITY_GUIDE.md](REUSABILITY_GUIDE.md) for complete adaptation guide with examples.**
+**See [FRAMEWORK_GUIDE.md](FRAMEWORK_GUIDE.md) for complete adaptation guide with examples.**
 
 ### Cost Savings:
 - **With framework:** 80K tests FREE (simulation) + 240 tests $15 (validation) = **$15 total**
